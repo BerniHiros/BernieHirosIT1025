@@ -1,4 +1,4 @@
-_Executive Summary_
+##Executive Summary
 
 The purpose of Lab 1 is threefold. First, a quick introduction to the history of computers. [Can be found] (https://www.youtube.com/watch?v=59haQ44b7Uc). The largest portion is creating a GitHub account in which to store upcoming information and becoming familiar with the program. Next is utilizing screen capture (snipping tool), which will be used in many upcoming labs. Lastly, adding this readme.md file.  Markdown has posed the greatest challenging. I have printed out the markdown cheat sheet and watched you tube videos to no avail.
 
