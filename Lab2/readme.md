@@ -18,6 +18,10 @@ Increasing the RAM makes the computer run faster. Program information or data st
 The difference between 64 and 32 bit data pathways refers to the number of bits of data transferred in a clock cycle. Having such a CPU today that runs on a 32 bit is unlikely. Intel started making 32-bit processors in the 80386 range way back in 1985; it was selling 64-bit processors by 2001. The main difference between 32-bit processors and 64-bit processors is the number of calculations per second they can perform.  This then will affect the speed at which they can complete tasks. 
 
 ##ALU and the Control Unit
+
+Arithmetic and Logic Unit (ALU) performs all the arithmetic and logical operations. RAM send instructions to the Control Unit (CU) which decodes the instructions. The type of operation is sent to the ALU which choses (or not) to perform an operation. If the ALU decidest o perform a tempory operation it will send its code to a register. The registers are then loaded onto a bus.   
+
+
 ##CUP, Input & Output
 ##Logic Gates and Circuits
 ##IEEE
@@ -38,7 +42,8 @@ Hexadecimal is a simpler way for human operators to utilize binary.  A single pl
 ##Hexadecimal Color Representation
 
 #ff016b Color Conversion
-The color vivd pink must be converted to computer language and sent to the printer to tell it the color needed. [https://www.colorhexa.com/ff016b]. The hexadecimal color #ff016b has RGB values of R:255, G:1, B:107 and CMYK values of C:0, M:1, Y:0.58, K:0. Its decimal value is 16712043.
+The color vivd pink must be converted to computer language and sent to the printer to tell it the color needed. [https://www.colorhexa.com/ff016b]. The hexadecimal color #ff016b has RGB values of R:255, G:1, B:107 and CMYK values of C:0, M:1, Y:0.58, K:0. Its decimal value is 16712043. When using colors to day the color wheel is still a good basis for complementary colors for providing contrast.  Computers also use the RGB color model which use combinations of red, green, and blue light against a black background to make the colors seen on a computer monitor or television screen. The vidid pink color would use a complementary color such as vivid cyan (hex #01ff95) to be best offset. 
+
 
 
 ##Conclusion
