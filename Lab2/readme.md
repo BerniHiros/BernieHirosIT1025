@@ -17,12 +17,28 @@ Increasing the RAM makes the computer run faster. Program information or data st
 
 The difference between 64 and 32 bit data pathways refers to the number of bits of data transferred in a clock cycle. Having such a CPU today that runs on a 32 bit is unlikely. Intel started making 32-bit processors in the 80386 range way back in 1985; it was selling 64-bit processors by 2001. The main difference between 32-bit processors and 64-bit processors is the number of calculations per second they can perform.  This then will affect the speed at which they can complete tasks. 
 
-
-
 ##ALU and the Control Unit
 ##CUP, Input & Output
 ##Logic Gates and Circuits
 ##IEEE
+
+
+##Data Representation
+
+##Data Representation: Numeric Conversions
+
+Base ten system is what we learned to count on our fingers and toes at a young age. Also known as the decimal system, it uses the decimal point to separate whole numbers from decimal fractions. The base ten system consisting of 10 digits to show all numbers 0,1,2,3,4,5,6,7,8,9 using place value.
+
+Binary, the prefix gives you a hint of a two coefficient.  Utilizes only the numbers “0 and 1”.  These are the recognized digits for computers O = off and 1 = on.  The value of each place is twice the value of the previous place.  (ex* 2, 4, 8, 16, 32, 64, 128) To evaluate a binary number’s decimal equivalent, multiply each number by its place value and add all the results together.
+
+Hexadecimal is a simpler way for human operators to utilize binary.  A single place value in hexadecimal represents four bits of memory. When you double that two places represents eight bits, or one byte. Hence, you’ll see hexadecimal used to represent the value of memory registers. The bit sizing makes it easier to read than a string of ones and zeros.
+
+
+
+
+
+
+
 ##Data Representation
 ##Numeric Conversions
 ##Hexadecimal Color Representation
