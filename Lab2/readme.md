@@ -33,14 +33,13 @@ Binary, the prefix gives you a hint of a two coefficient.  Utilizes only the num
 
 Hexadecimal is a simpler way for human operators to utilize binary.  A single place value in hexadecimal represents four bits of memory. When you double that two places represents eight bits, or one byte. Hence, you’ll see hexadecimal used to represent the value of memory registers. The bit sizing makes it easier to read than a string of ones and zeros.
 
+##Numeric Conversions - Are attached as a file
 
-
-
-
-
-
-##Data Representation
-##Numeric Conversions
 ##Hexadecimal Color Representation
+
+#ff016b Color Conversion
+The color vivd pink must be converted to computer language and sent to the printer to tell it the color needed. [https://www.colorhexa.com/ff016b]. The hexadecimal color #ff016b has RGB values of R:255, G:1, B:107 and CMYK values of C:0, M:1, Y:0.58, K:0. Its decimal value is 16712043.
+
+
 ##Conclusion
 ##Include your conclusion here...
