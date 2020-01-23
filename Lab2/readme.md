@@ -43,13 +43,13 @@ Digital logic circuits use voltage to represent the “1 & 0” of binary code. 
 
 2 Input NAND gate
 
-CENTER	CENTER	CENTER
-______	______	______
-A	B	AB
-0	0	1
-0	1	1
-1	0	1	
-1	1	0
+* CENTER	CENTER	CENTER
+* ______	______	______
+* A	B	AB
+* 0	0	1
+* 0	1	1
+* 1	0	1	
+* 1	1	0
   
 
 
