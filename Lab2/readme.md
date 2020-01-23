@@ -30,13 +30,21 @@ I am going to the store to buy four Chobani Greek yogurts that are on sale. My y
 
 Hardware: Logic Gates and Circuits. 
 Digital logic circuits use voltage to represent the “1 & 0” of binary code. Truth tables show the outcome when each pair (group) is either on or off. Below are samples NAND & AND gate -  2 input truth tables.  The gate is how the currents run and the outcome [https://www.youtube.com/watch?v=Ty5FklXcHVE].
- 
+
+
 |2 input NAND gate|
 |:-----||:-----|
 |A|B|AB|
+|0|0|1|
+|0|1|1|
+|1|0|1|
+|1|1|0|
   
    
-  
+
+
+
+
   
 ### IEEE
 
