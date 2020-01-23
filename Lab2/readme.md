@@ -2,7 +2,6 @@
 I will explain the hardware componenets of a computer and what effects its speed. Explore how cicruts and information is transferred within a computer. Lastly, attach files with examples of binary (the language of a computer),conversions to decimal and hexidecimal.
 
 ## Hardware
-### Hard Drives and Memory
 #### Hard Disk Performance
 
 Hard drive latency refers to the total amount of time it takes to send an entire message, over a link between sender and receiver.  The article further breaks it down to include seek time or time taken to find data on the disc. Time is measured in milliseconds which may not seem like much however to large companies this can be detrimental. There are three factors that contribute to latency; propagation delay, routing and switching, and queuing and buffering.
