@@ -1,5 +1,5 @@
 ## Executive Summary
-I will explain the hardware componenets of a computer and what effects its speed. Show examples of the language of a computer (binary) and conversions to decimal and hexidecimal.
+I will explain the hardware componenets of a computer and what effects its speed. Convert examples of Binary the language of a computer  and conversions to decimal and hexidecimal.
 
 ## Hardware
 ### Hard Drives and Memory
@@ -19,15 +19,33 @@ The difference between 64 and 32 bit data pathways refers to the number of bits 
 
 #### ALU and the Control Unit
 
-Arithmetic and Logic Unit (ALU) performs all the arithmetic and logical operations. RAM send instructions to the Control Unit (CU) which decodes the instructions. The type of operation is sent to the ALU which choses (or not) to perform an operation. If the ALU decidest o perform a tempory operation it will send its code to a register. The registers are then loaded onto a bus.   
+The Central Processing Unit (CPU) is used by the computer to operate basic instructions. RAM send instructions to the Control Unit (CU) which decodes the instructions. The Arithmetic Logic Unit (ALU) will sort calculations and compare jobs inside the computer. The type of operation is sent to the ALU which choses (or not) to perform a temporary operation. If your data has information to output, it will leave the ALU through a register. The registers are then loaded onto a bus.   
 
+   
+### Hardware: ALU and the Control Unit
 
-### CUP, Input & Output
+I am going to the store to buy four Chobani Greek yogurts that are on sale. My yogurt containers are connected to the self-checkout system through information accessed when scanning the UPC on the container. This code holds information about the cost of the yogurt in order to charge me correctly and contains an approximate weight for use when bagging. I scan the yogurts bar code and the information (RAM) is sent to the CPU.  The CPU then sends the items cost and weight to the ALU.  The ALU temporarily holds the information. The weight of each container is immediately sent for bagging purposes. The sale adjusted cost is held until the ALU is told to total up my purchases for the final bill. 
+
 ### Logic Gates and Circuits
+
+Hardware: Logic Gates and Circuits. 
+Digital logic circuits use voltage to represent the “1 & 0” of binary code. Truth tables show the outcome when each pair (group) is either on or off. Below are samples NAND & AND gate -  2 input truth tables.  The gate is how the currents run and the outcome [https://www.youtube.com/watch?v=Ty5FklXcHVE].
+ 
+|2 input NAND gate|
+|A|B|AB|
+  
+   
+  
+  
 ### IEEE
 
+IEEE’s Hardware Standard
+	The Institute for Electrical and Electronic Engineers, or IEEE, started as electricity became common. The purpose of this group was to help people of a trade apply their skills for the betterment of society. Some of the original members include the man who upgraded the lightbulb, Thomas Edison, representing electricity. Alexander Graham Bell, the creator of the Telephone, representing the Telephone Industry, and Norvin Green Representing Telegraphy (The Telegraph). Today it is the world’s largest technical professional society, that serve other professionals in all areas of technology.  Some of the general principles they follow are stated in the three pillars. 
+Ethically Aligned Design – Three Pillars
+Universal Human Values – Good of all people and the environment.  Guide to policy makers and creators.
+Political Self-Determination – Freedom and safety of people (& their data identity).
+Technical Dependability – Trust, reliability and safety of products.  Meet device objectives and be explainable.
 
-### Data Representation
 
 ### Data Representation: Numeric Conversions
 
