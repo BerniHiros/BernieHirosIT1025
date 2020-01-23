@@ -57,5 +57,5 @@ The color vivid pink must be converted to computer language and sent to the prin
 
 ## Conclusion
 
-Turning on the button of a computer or utilizing a check out scanner of a grocery store is a journey now more clearly defined.  1 & 0 used in binary language has gates and tables that read electrical impulses. The information is sent through numerous pathways prior to output that we see. The hardware that assists the impulses work in tandem wires, chips and even floating parts. The IEEE is a group that oversees these results.
+Turning on the button of a computer or utilizing a check out scanner of a grocery store is a journey now more clearly defined.  1 & 0 used in binary language has gates and tables that read electrical impulses. The information is sent through numerous pathways prior to output that we see. The hardware that assists the impulses work in tandem; wires, chips and even floating parts. The IEEE is a group that oversees these results.
 
