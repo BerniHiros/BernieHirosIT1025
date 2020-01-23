@@ -9,7 +9,7 @@ Hard drive latency refers to the total amount of time it takes to send an entire
 
 #### Solid State Drives
 
-Hard disk drive (HDD) has been around for a number of years. The main benefit of the older HDD is the price.  The price for capacity is presently cheaper than the solid state drive (SSD).  The newer SSD has many benefits; speed, longevity, durability and noise. The average speed of a SSD is two – three times faster than HDD (as seen in this video) https://www.youtube.com/watch?v=j84eEjP-RL4.  Although the longevity of the HDD presently is a bit longer than that of SSD, the performance of the older HDD decreases with age. Durability hands down goes to SSD as there are no moving parts. The HDD is almost like a miniature electromagnetic record player in a box.  Lots of moving parts that need both electricity and magnets to run properly. Lastly vibrations cause the moving parts of the HDD to make noise.  Whereas the SSD can withstand vibrations up to 2000HZ.
+Hard disk drive (HDD) has been around for several years. The main benefit of the older HDD is the price.  The price for capacity is presently cheaper than the solid state drive (SSD).  The newer SSD has many benefits; speed, longevity, durability and noise. The average speed of a SSD is two – three times faster than HDD (as seen in this video) https://www.youtube.com/watch?v=j84eEjP-RL4.  Although the longevity of the HDD presently is a bit longer than that of SSD, the performance of the older HDD decreases with age. Durability hands down goes to SSD as there are no moving parts. The HDD is almost like a miniature electromagnetic record player in a box.  Lots of moving parts that need both electricity and magnets to run properly. Lastly vibrations cause the moving parts of the HDD to make noise.  Whereas the SSD can withstand vibrations up to 2000HZ.
 
 #### RAM Explained - Random Access Memory
 
@@ -34,8 +34,7 @@ Digital logic circuits use voltage to represent the “1 & 0” of binary code. 
   
 #### Hardware: IEEE - Ethically Aligned Design
 
-IEEE’s Hardware Standard
-	The Institute for Electrical and Electronic Engineers, or IEEE, started as electricity became common. The purpose of this group was to help people of a trade apply their skills for the betterment of society. Some of the original members include the man who upgraded the lightbulb, Thomas Edison, representing electricity. Alexander Graham Bell, the creator of the Telephone, representing the Telephone Industry, and Norvin Green Representing Telegraphy (The Telegraph). Today it is the world’s largest technical professional society, that serve other professionals in all areas of technology.  Some of the general principles they follow are stated in the three pillars. 
+The Institute for Electrical and Electronic Engineers, or IEEE, started long ago as electricity became common. The purpose of this group was to help people of a trade apply their skills for the betterment of society. Some of the original members include the man who upgraded the lightbulb, Thomas Edison, representing electricity. Alexander Graham Bell, the creator of the Telephone, representing the Telephone Industry, and Norvin Green Representing Telegraphy (The Telegraph). Today it is the world’s largest technical professional society, that serve other professionals in all areas of technology.  Some of the general principles they follow are stated in the three pillars. 
 Ethically Aligned Design – Three Pillars
 Universal Human Values – Good of all people and the environment.  Guide to policy makers and creators.
 Political Self-Determination – Freedom and safety of people (& their data identity).
@@ -55,8 +54,9 @@ Hexadecimal is a simpler way for human operators to utilize binary.  A single pl
 #### Data Representation: Hexadecimal Color Representation
 
 #ff016b Color Conversion
-The color vivd pink must be converted to computer language and sent to the printer to tell it the color needed. [https://www.colorhexa.com/ff016b]. The hexadecimal color #ff016b has RGB values of R:255, G:1, B:107 and CMYK values of C:0, M:1, Y:0.58, K:0. Its decimal value is 16712043. When using colors to day the color wheel is still a good basis for complementary colors for providing contrast.  Computers also use the RGB color model which use combinations of red, green, and blue light against a black background to make the colors seen on a computer monitor or television screen. The vidid pink color would use a complementary color such as vivid cyan (hex #01ff95) to be best offset. 
+The color vivid pink must be converted to computer language and sent to the printer to tell it the color needed. [https://www.colorhexa.com/ff016b]. The hexadecimal color #ff016b has RGB values of R:255, G:1, B:107 and CMYK values of C:0, M:1, Y:0.58, K:0. Its decimal value is 16712043. When using colors to day the color wheel is still a good basis for complementary colors for providing contrast.  Computers also use the RGB color model which use combinations of red, green, and blue light against a black background to make the colors seen on a computer monitor or television screen. The vivid pink color would use a complementary color such as vivid cyan (hex #01ff95) to be best offset. 
 
 ## Conclusion
 
+Turning on the button of a computer or utilizing a check out scanner of a grocery store is a journey now more clearly defined.  1 & 0 used in binary language has gates and tables that read electrical impulses. The information is sent through numerous pathways prior to output that we see. The hardware that assists the impulses work in tandem wires, chips and even floating parts. The IEEE is a group that oversees these results.
 
