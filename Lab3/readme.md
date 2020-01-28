@@ -16,9 +16,9 @@ Disc defragmenter: MyDefrag,  Perfect disk, Deflaggler
 
 Enterprise Resource Planning (ERP): The software for ERP will differ for each company.  Our small business would not need what a multi-national conglomerate would need. Basically, what is needed of a computer for the company to function to their best. Some examples would be  Dynamics 365 for Finance and Operations, NetSuite, Sage Intact, SAP Business ByDesign.
 
-Virtualization – Creating a virtual version, computer hardware platform, storage device, network resource. The three ways to create virtual servers are: full virtualization, para-virtualization and OS-level virtualization. The physical server is called the host. Example, VMware running on an x86 computer is a virtual environment.
+Virtualization – The purpose is: to create a virtual version of multiple OS in one storage device or network resource. The three ways to create virtual servers are: full virtualization, para-virtualization and OS-level virtualization. The physical server is called the host. Example, VMware running on an x86 computer is a virtual environment.
 
-Cloud computing is the delivery of shared computing resources, software or data, as a service and on-demand through the internet. Virtualization can be independent of the internet; the information is contained on a machine.
+Cloud computing is the delivery of shared computing resources, software or data, as a service and on-demand through the internet. The difference being virtualization can be independent of the internet; the information is contained on a machine.
 
 ### Virtualization
 
