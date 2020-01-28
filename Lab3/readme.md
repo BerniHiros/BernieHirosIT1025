@@ -1,5 +1,5 @@
-###Executive Summary
-####Software
+## Executive Summary
+### Software
 Operating software: Operating System Software is software the manages the computer’s hardware (hides its complexity), and acts as an interface with application programs. 
 Examples: Microsoft Windows, Apple iOS, Google's Android OS, Apple macOS, Linux Operating System.
 
@@ -20,7 +20,7 @@ Virtualization – Creating a virtual version, computer hardware platform, stora
 
 Cloud computing is the delivery of shared computing resources, software or data, as a service and on-demand through the internet. Virtualization can be independent of the internet; the information is contained on a machine.
 
-####Virtualization
+### Virtualization
 
 Virtualization allows a company to instantly access limitless computing resources quickly. The most important function is the capability of running multiple operating systems and applications on a single computer or server. Businesses benefit by reduced hardware costs, faster servers, improved disaster recovery, significant energy costs savings and, increased productivity.
 
@@ -40,4 +40,4 @@ Certifications
 Certificates and Degrees
 Co-ops / Internships
 Industry Associations / Student Organizations
-###Conclusion
+## Conclusion
