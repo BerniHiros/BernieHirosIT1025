@@ -6,7 +6,7 @@ Examples: Microsoft Windows, Apple iOS, Google's Android OS, Apple macOS, Linux 
 Application software: a single or group of programs designed to perform a group of coordinated functions, tasks, or activities for the for an end user. (End User = person who ultimately use the product). 
 Examples: MS Word, WordPad and Notepad. /Internet browsers like Firefox, Safari, and Chrome. /Microsoft Power Point, Keynotes. /Auto CAD. /MySQL, Oracle, MS Access. /Apple Numbers, Microsoft Excel. /Real Player, Media Player.
 
-Utility Software: Utility software makes the computer run better. They analyze and maintain a computer by focusing on how the OS works. Some examples below include how they protect, manage, compress, clean and speed up your computer.
+Utility Software: Utility software makes the computer run better. It will analyze and maintain a computer by focusing on how the OS works. Some examples below include how they protect, manage, compress, clean and speed up your computer.
 Antivirus: Windows Defender, AVG, AVAST, MCAFEE
 File management: File Manager in Windows.
 Compression: WinAce, WinZip, WinRAR,7-Zip, PKZIP,
