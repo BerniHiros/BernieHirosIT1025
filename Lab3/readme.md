@@ -1,6 +1,6 @@
 ## Executive Summary
 ### Software
-Operating software: Operating System Software is software the manages the computer’s hardware (hides its complexity), and acts as an interface with application programs. 
+Operating software: Operating System Software is software that manages the computer’s hardware (hides its complexity), and acts as an interface with application programs. 
 Examples: Microsoft Windows, Apple iOS, Google's Android OS, Apple macOS, Linux Operating System.
 
 Application software: a single or group of programs designed to perform a group of coordinated functions, tasks, or activities for the for an end user. (End User = person who ultimately use the product). 
