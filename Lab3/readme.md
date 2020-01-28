@@ -30,7 +30,7 @@ Cloud Computing is an on-demand network access to a shared pool of computing res
 
 Virtualization is technology that separates functions from hardware into virtual environments. Both the intranet & internet are both established, a network administrator can take the information and send it elsewhere through the cloud. A VMware network administrator can build and install computer infrastructure, to encompasses hardware, servers, and virtual machines, using a VMware environment.  They create user accounts, controlling access to networks, and managing storage and security settings.
 
-####Python
+#### Python
 Pseudocode is a way to execute commands which enables the programmer to plan without worrying about syntax. Example = Python when we added two numbers together.  We used regular vocabulary with simple phrases. 
 
 Interpreted language v.s. Compiled language.  Interpreted language is a single instruction read one line at a time on input. The translation occurs at the same time as the program is being executed. Compiled language will input an entire program at the onset, because a compiler has translated the code language up front, before the program is even run.  Assembly is a mix of both.
