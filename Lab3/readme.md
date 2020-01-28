@@ -7,14 +7,14 @@ Application software: a single or group of programs designed to perform a group 
 Examples: MS Word, WordPad and Notepad. /Internet browsers like Firefox, Safari, and Chrome. /Microsoft Power Point, Keynotes. /Auto CAD. /MySQL, Oracle, MS Access. /Apple Numbers, Microsoft Excel. /Real Player, Media Player.
 
 Utility Software: Utility software makes the computer run better. It will analyze and maintain a computer by focusing on how the OS works. Some examples below include how they protect, manage, compress, clean and speed up your computer.
-Antivirus: Windows Defender, AVG, AVAST, MCAFEE
-File management: File Manager in Windows.
-Compression: WinAce, WinZip, WinRAR,7-Zip, PKZIP,
-Disc management: Mini Tool Partition Wizard, Paragon Partition Manager, SMART Monitoring Tools, AOMEI Partition Assistant
-Disc cleanup: Iolo System mechanic, Piriform Cleaner, Razer Cortex
-Disc defragmenter: MyDefrag,  Perfect disk, Deflaggler
+* Antivirus: Windows Defender, AVG, AVAST, MCAFEE
+* File management: File Manager in Windows.
+* Compression: WinAce, WinZip, WinRAR,7-Zip, PKZIP,
+* Disc management: Mini Tool Partition Wizard, Paragon Partition Manager, SMART Monitoring Tools, AOMEI Partition Assistant
+* Disc cleanup: Iolo System mechanic, Piriform Cleaner, Razer Cortex
+* Disc defragmenter: MyDefrag,  Perfect disk, Deflaggler
 
-Enterprise Resource Planning (ERP): The software for ERP will differ for each company.  Our small business would not need what a multi-national conglomerate would need. Basically, what is needed of a computer for the company to function to their best. Some examples would be  Dynamics 365 for Finance and Operations, NetSuite, Sage Intact, SAP Business ByDesign.
+Enterprise Resource Planning (ERP): The software for ERP will differ for each company.  Our small business would not need what a multi-national conglomerate would need. Basically, what is needed of a computer for the company to function to their best. Examples: Dynamics 365 for Finance and Operations, NetSuite, Sage Intact, SAP Business ByDesign.
 
 Virtualization – The purpose is: to create a virtual version of multiple OS in one storage device or network resource. The three ways to create virtual servers are: full virtualization, para-virtualization and OS-level virtualization. The physical server is called the host. Example, VMware running on an x86 computer is a virtual environment.
 
@@ -34,9 +34,9 @@ Virtualization is technology that separates functions from hardware into virtual
 Pseudocode is a way to execute commands which enables the programmer to plan without worrying about syntax. Example = Python when we added two numbers together.  We used regular vocabulary with simple phrases. 
 
 Interpreted language v.s. Compiled language.  Interpreted language is a single instruction read one line at a time on input. The translation occurs at the same time as the program is being executed. Compiled language will input an entire program at the onset, because a compiler has translated the code language up front, before the program is even run.  Assembly is a mix of both.
-Examples: Interpreter = Python, Java, Ruby
-Examples: Compiler = C+, go, Swift
-Examples: Assembly = x86, mips, arm
+* Examples: Interpreter = Python, Java, Ruby
+* Examples: Compiler = C+, go, Swift
+* Examples: Assembly = x86, mips, arm
 
 
 ####Career Exploration
