@@ -39,8 +39,21 @@ Interpreted language v.s. Compiled language.  Interpreted language is a single i
 * Examples: Assembly = x86, mips, arm
 
 
-####Career Exploration
-#####College Central
+#### Career Exploration
+##### College Central
+College Central – I like working in the educational atmosphere and hope to work at Tri-C west while finishing computer courses. [https://www.tri-c.edu/administrative-departments/human-resources/careers.html]. I will use the events and programs on College Central after I have finished more courses. I certainly need interview help.
+
+##### Certifications
+Each certification pathway has many levels.  I am not sure of which computer pathway I am interested as of yet. 
+|CompTIA|
+|CompTIA IT Fundamentals|
+CompTIA A+|
+
+
+
+
+
+
 Certifications
 Certificates and Degrees
 Co-ops / Internships
