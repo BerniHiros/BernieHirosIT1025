@@ -53,9 +53,11 @@ CISSP - SSCP are more security related pathways.
 ##### Certificates 
 Tri-C offers numerous certificates that can be completed in six months to one year. Some examples in the Information Technology Department include: Cisco, Computer Maintenance, Data Analytics and Cybersecurity. I am looking for computer classes that cross over until I choose a pathway.  Having finished the Polysomnography Certificate, I can attest that you are ready to be placed into a position after training. Tri-C offers certificates in many different fields which can be found at [https://www.tri-c.edu/programs/programs-a-z.html].
 
-Co-ops / Internships
+##### Co-ops / Internships
+A Co-op is usually a full-time paid position alternating with coursework at a college. An internship may or may not be paid and can be part-time. Both have many benefits; I believe the most important is getting to "try out" what you may choose as a career.  This may affect your going forward or choosing a different career path. Secondly, after completing a co-op/internship a student has real work experience that today’s employers are looking for, they also have a leg up on other applicants especially at the present company where they have already been trained. 
+Tri-C had asimple one page online form to fill out electronically. Added benefit for students, in addition to being compensated (financially or experience) a student can earn one college credit for every 180 hours worked (up to three credits per semester).
+
+##### Industry Associations / Student Organizations
 
 
-
-Industry Associations / Student Organizations
 ## Conclusion
