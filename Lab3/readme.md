@@ -45,9 +45,9 @@ College Central – I like working in the educational atmosphere and hope to wor
 
 ##### Certifications
 Each certification pathway has many levels.  I am not sure of which computer pathway I am interested as of yet. 
-|CompTIA|
-|CompTIA IT Fundamentals|
-CompTIA A+|
+| CompTIA |
+| CompTIA IT Fundamentals |
+| CompTIA A+ |
 
 
 
