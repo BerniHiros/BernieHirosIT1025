@@ -50,12 +50,12 @@ CompTIA - CompTIA IT Fundamentals and CompTIA A+ = A fundamental course if offer
 Cisco- CENT and the CCT certifications serve as starting points for a career as a networking professiona in Cisco
 CISSP - SSCP are more security related pathways. 
 
+##### Certificates 
+Tri-C offers numerous certificates that can be completed in six months to one year. Some examples in the Information Technology Department include: Cisco, Computer Maintenance, Data Analytics and Cybersecurity. I am looking for computer classes that cross over until I choose a pathway.  Having finished the Polysomnography Certificate, I can attest that you are ready to be placed into a position after training. Tri-C offers certificates in many different fields which can be found at [https://www.tri-c.edu/programs/programs-a-z.html].
 
-
-
-
-Certifications
-Certificates and Degrees
 Co-ops / Internships
+
+
+
 Industry Associations / Student Organizations
 ## Conclusion
