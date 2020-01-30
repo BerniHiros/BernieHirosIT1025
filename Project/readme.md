@@ -11,7 +11,7 @@ I will research the history and future of Markdown.  What Markdown is and where 
 * Supply a sample
 
 ## Conclusion
-I have enjoyed the course and its exposure to so many new thoughts.  Will try and continue to research (on the side) when I feel behind. I am in _awe_ of some of the younger students knowledge. I am registered for IT 1050 with Khaizaran, Dalia.  I would like to know the most employable IT degrees. Then take more courses and decide a path.
+I have enjoyed the course and its exposure to so many new thoughts.  Will try and continue to research (on the side) when I feel behind. I am in _awe_ of some of the younger students knowledge. My future path includes more classes, I am registered for IT 1050 with Khaizaran, Dalia.  Lastly,seeking information from teachers, friends and the internet, the most employable IT degrees. 
 
 
 
