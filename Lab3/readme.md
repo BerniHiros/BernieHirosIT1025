@@ -1,4 +1,6 @@
 ## Executive Summary
+Lab three encompasses a variety of topics.  I will explain software and its different types; operating software that is consumer friendly, application software utilized for different tasks, and utility software which makes the computer run better. A quick note on  ERP – that helps companies in their software choices. I will touch on virtualization and python , which we will use more in future labs. Lastly, all things career planning, job outlook, the many tri-c resources and external clubs and resources.
+
 ### Software
 Operating software: Operating System Software is software that manages the computer’s hardware (hides its complexity), and acts as an interface with application programs. 
 Examples: Microsoft Windows, Apple iOS, Google's Android OS, Apple macOS, Linux Operating System.
@@ -63,3 +65,4 @@ Tri-C had asimple one page online form to fill out electronically. Added benefit
 Tri-C offers a wide variety of clubs.  To form a club at tri-c you must have three students and an advisor.  The turnover rate at Tri-C being every two years (most degrees) makes it more of a challenge.   The benefits of a technology club that would meet regularly would be very beneficial.  To guide students in choosing outside clubs (to many to list), future work or college plans, and scholarships. Also to notify students of the  many technology conventions and companies in Cleveland. It’s wonderful to see teams attending competitions like the CCDC in Chicago, I hope they continue to enter. In searching the State of Ohio for cybersecurity colleges, Tri-C is not listed, I believe in error. [https://www.oh-tech.org/blog/three_reasons_consider_career_cybersecurity#.XjLRPWhKiM8]
 
 ## Conclusion
+In lab three I learned exactly what software is used for on my computer for the OS outer shell to make all programs easier. Applications software that uses the OS to perform certain tasks and the needed utility software to make my computer run efficiently.   I have touched on python (interpreter software) and virtualization we will revisit later.  How to turn our knowledge into getting a job.  I learned if my future job out look is profitable and the many resources Tri-C has to help me attain a job in the computer field.
