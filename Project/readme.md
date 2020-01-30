@@ -1,5 +1,5 @@
 ## Executive Summary
-I will research the history and future of Markdown.  What Markdown is and where and how we can use this language. I will detail how to learn Markdown and submit a sample.
+I will research the history and future of Markdown.  I will tell what Markdown is where we can use this language. I will detail how to learn Markdown and submit a sample.
 
 ### Project or Co-op
 * Research Markdown: 
