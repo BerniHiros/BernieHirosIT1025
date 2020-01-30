@@ -43,7 +43,7 @@ Interpreted language v.s. Compiled language.  Interpreted language is a single i
 
 ### Career Exploration
 #### College Central
-College Central – I like working in the educational atmosphere and hope to work at Tri-C west while finishing computer courses. [https://www.tri-c.edu/administrative-departments/human-resources/careers.html]. I will use the events and programs listed on College Central after I have finished more courses. I certainly need interview help.
+College Central – I like working in the educational atmosphere and hope to work at Tri-C west while finishing computer courses, [carreers at Tri-C] (https://www.tri-c.edu/administrative-departments/human-resources/careers.html). I will use the events and programs listed on College Central after I have finished more courses. I certainly need interview help.
 
 The website provided for the Bureau of Labor statistics provided an easily traversing chart.  You can look up positions you are interested in and see the future hiring trend.  My purposes, I wanted to look up different Associate degree information technology positions.  These positions are all expected to grow faster that average. Every person would love to have great passion for their jobs.  I find to know there might be a job waiting a certain added benefit. 
 
