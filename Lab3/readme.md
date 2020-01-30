@@ -30,7 +30,7 @@ Cloud Computing is an on-demand network access to a shared pool of computing res
 
 Virtualization is technology that separates functions from hardware into virtual environments. Both the intranet & internet are both established, a network administrator can take the information and send it elsewhere through the cloud. A VMware network administrator can build and install computer infrastructure, to encompasses hardware, servers, and virtual machines, using a VMware environment.  They create user accounts, controlling access to networks, and managing storage and security settings.
 
-#### Python
+### Python
 Pseudocode is a way to execute commands which enables the programmer to plan without worrying about syntax. Example = Python when we added two numbers together.  We used regular vocabulary with simple phrases. 
 
 Interpreted language v.s. Compiled language.  Interpreted language is a single instruction read one line at a time on input. The translation occurs at the same time as the program is being executed. Compiled language will input an entire program at the onset, because a compiler has translated the code language up front, before the program is even run.  Assembly is a mix of both.
@@ -39,27 +39,27 @@ Interpreted language v.s. Compiled language.  Interpreted language is a single i
 * Examples: Assembly = x86, mips, arm
 
 
-#### Career Exploration
-##### College Central
+### Career Exploration
+#### College Central
 College Central – I like working in the educational atmosphere and hope to work at Tri-C west while finishing computer courses. [https://www.tri-c.edu/administrative-departments/human-resources/careers.html]. I will use the events and programs listed on College Central after I have finished more courses. I certainly need interview help.
 
-##### Certifications
+The website provided for the Bureau of Labor statistics provided an easily traversing chart.  You can look up positions you are interested in and see the future hiring trend.  My purposes, I wanted to look up different Associate degree information technology positions.  These positions are all expected to grow faster that average. Every person would love to have great passion for their jobs.  I find to know there might be a job waiting a certain added benefit. 
+
+#### Certifications
 Each certification pathway has many levels.  I am not sure of which computer pathway I am interested yet. I will be looking into the most employable of the choices
 
 CompTIA - CompTIA IT Fundamentals and CompTIA A+ = A fundamental course if offered prior to the skills needed in A+
 Cisco- CENT and the CCT certifications serve as starting points for a career as a networking professional in Cisco
 CISSP - SSCP are more security related pathways. 
 
-##### Certificates 
+#### Certificates 
 Tri-C offers numerous certificates that can be completed in six months to one year. Some examples in the Information Technology Department include: Cisco, Computer Maintenance, Data Analytics and Cybersecurity. I am looking for computer classes that cross over until I choose a pathway.  Having finished the Polysomnography Certificate, I can attest that you are ready to be placed into a position after training. Tri-C offers certificates in many different fields which can be found at [https://www.tri-c.edu/programs/programs-a-z.html].
 
-##### Co-ops / Internships
+#### Co-ops / Internships
 A Co-op is usually a full-time paid position alternating with coursework at a college. An internship may or may not be paid and can be part-time. Both have many benefits; I believe the most important is getting to "try out" what you may choose as a career.  This may affect your going forward or choosing a different career path. Secondly, after completing a co-op/internship a student has real work experience that today’s employers are looking for. They also have a leg up on other applicants especially at the present company where they have already been trained. 
 Tri-C had asimple one page online form to fill out electronically. Added benefit for students, in addition to being compensated (financially or experience) a student can earn one college credit for every 180 hours worked (up to three credits per semester).
 
-##### Industry Associations / Student Organizations
-
-
-
+#### Industry Associations / Student Organizations
+Tri-C offers a wide variety of clubs.  To form a club at tri-c you must have three students and an advisor.  The turnover rate at Tri-C being every two years (most degrees) makes it more of a challenge.   The benefits of a technology club that would meet regularly would be very beneficial.  To guide students in choosing outside clubs (to many to list), future work or college plans, and scholarships. Also to notify students of the  many technology conventions and companies in Cleveland. It’s wonderful to see teams attending competitions like the CCDC in Chicago, I hope they continue to enter. In searching the State of Ohio for cybersecurity colleges, Tri-C is not listed, I believe in error. [https://www.oh-tech.org/blog/three_reasons_consider_career_cybersecurity#.XjLRPWhKiM8]
 
 ## Conclusion
