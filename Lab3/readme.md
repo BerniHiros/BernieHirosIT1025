@@ -44,10 +44,10 @@ Interpreted language v.s. Compiled language.  Interpreted language is a single i
 College Central – I like working in the educational atmosphere and hope to work at Tri-C west while finishing computer courses. [https://www.tri-c.edu/administrative-departments/human-resources/careers.html]. I will use the events and programs listed on College Central after I have finished more courses. I certainly need interview help.
 
 ##### Certifications
-Each certification pathway has many levels.  I am not sure of which computer pathway I am interested as of yet. I will be looking inot the most employable of the choices
+Each certification pathway has many levels.  I am not sure of which computer pathway I am interested yet. I will be looking into the most employable of the choices
 
 CompTIA - CompTIA IT Fundamentals and CompTIA A+ = A fundamental course if offered prior to the skills needed in A+
-Cisco- CENT and the CCT certifications serve as starting points for a career as a networking professiona in Cisco
+Cisco- CENT and the CCT certifications serve as starting points for a career as a networking professional in Cisco
 CISSP - SSCP are more security related pathways. 
 
 ##### Certificates 
@@ -58,6 +58,8 @@ A Co-op is usually a full-time paid position alternating with coursework at a co
 Tri-C had asimple one page online form to fill out electronically. Added benefit for students, in addition to being compensated (financially or experience) a student can earn one college credit for every 180 hours worked (up to three credits per semester).
 
 ##### Industry Associations / Student Organizations
+
+
 
 
 ## Conclusion
