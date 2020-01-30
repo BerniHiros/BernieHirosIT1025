@@ -7,7 +7,7 @@ I will research the history and future of Markdown.  What Markdown is and where 
 * Future of markdown
 * What’s Markdown?
 * Why Use Markdown?
-* How to learn Markdown language - supply sites [GitLab] (https://about.gitlab.com)
+* How to learn Markdown language - supply sites [GitLab](https://about.gitlab.com)
 * How Does it Work on the computer?
 
 ## Conclusion
