@@ -25,7 +25,7 @@ PNG – Portable Network Graphic - is commonly used for high contrast digital ph
 
 ### File Properties
 
-
+Our company hired Go Daddy to design and maintain its webpage. I decided to see if I could create an interesting graphic to load.  I used a similar font to our company logo and added a graphic I felt relevant.  My Vectr upload (5 lines) included on image and four lines of text two are layered. I used shadowing and rounded corners from tutorial video.  Properties are ; size 904 KB and it opens with svg file path.  On my home computer I presently don’t have Nikon program or photo shop.  Chrome svg file is the best due to the photo.
 
 
 ## Conclusion
