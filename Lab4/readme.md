@@ -7,8 +7,10 @@ Python shell uses interactive mode to evaluate single commands. It utilizes read
 IDLE = integrated development environment (IDE) provided by Python. This allows the novice programmer to use Python effectively with the use of a tool bar. The menu allow you to change, save and run a program that has multiple lines.
 
 ### Code Examples
-
-
+Variable
+Assignmant Statement
+Function
+Three Data Types
 
 
 ### Raster vs. Vector Graphics
