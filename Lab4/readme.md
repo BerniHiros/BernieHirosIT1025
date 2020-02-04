@@ -2,7 +2,14 @@
 
 
 ### Python IDLE
+
+Python shell uses interactive mode to evaluate single commands. It utilizes read, evaluate and print.  However, you cannot go back. There is no menu bar.
+IDLE = integrated development environment (IDE) provided by Python. This allows the novice programmer to use Python effectively with the use of a tool bar. The menu allow you to change, save and run a program that has multiple lines.
+
 ### Code Examples
+
+
+
 
 ### Raster vs. Vector Graphics
 
@@ -32,14 +39,3 @@ Our company hired Go Daddy to design and maintain its webpage. I decided to see 
 
 
 
-
-
-
-
-
-
-JPG
-
-GIF
-
-PNG
