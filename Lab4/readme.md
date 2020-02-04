@@ -13,7 +13,7 @@ Raster graphics are composed of pixels (little squares) 8 x 8 in a 64 grid patte
 
 ### Lossless vs. Lossy Compression
 
-When developers use lossy compression some of the image is left out and cannot be restored to its original image.  Lossy does have a high data holding capacity that uses estimates to represent the content.  Lossless when reducing the size, the image does not lose quality. This is preferred for high quality images.  However, lossless does have a lower data capacity.
+When developers use lossy compression some of the image is left out and cannot be restored to its original image.  Lossy does have a high data holding capacity that uses estimates to represent the content.  Lossless when increasing the size, the image does not lose quality. This is preferred for high quality images.  However, lossless does have a lower data capacity.
 
 ### File Formats
 
