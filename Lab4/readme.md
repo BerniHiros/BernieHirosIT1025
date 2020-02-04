@@ -23,9 +23,10 @@ GIF – Graphic Interchange Format - is commonly used for an animated raster gra
 
 PNG – Portable Network Graphic - is commonly used for high contrast digital photos. PNG files are used to store web graphics and images with transparent backgrounds. Contains a bitmap of indexed colors and is compressed with lossless compression also has larger file sizes.
 
-
-
 ### File Properties
+
+
+
 
 ## Conclusion
 
