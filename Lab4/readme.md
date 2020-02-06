@@ -1,5 +1,5 @@
 ## Executive Summary
-In this lab I will show examples using the command line to create a new directory and adding new Files.   Returning to Python we will get a better understanding and run a program. Lastly, I will create a graphic using Vectr while understanding pixels and compressions.
+In this lab I will show examples using the command line to create a new directory and adding new files.   Returning to Python we will get a better understanding and run a program. Lastly, I will create a graphic using Vectr while understanding pixels and compressions.
 
 
 ### Python IDLE
