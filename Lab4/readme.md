@@ -1,4 +1,5 @@
-## Eeecutive Summary
+## Exutive Summary
+In this lab I will show examples using the command line to create a new directory and adding new Files.   Returning to Python we will get a better understanding and run a program. Lastly, I will create a graphic using Vectr while understanding pixels and compressions.
 
 
 ### Python IDLE
@@ -38,6 +39,6 @@ Our company hired Go Daddy to design and maintain its webpage. I decided to see 
 
 
 ## Conclusion
-
+I found this lab challenging because of working ahead. I made a second directory names images instead of a sub-folder.  I enjoy using Python if you use the correct format it works.  If you don’t use the correct wording (string), you will get an error.  I am thinking of exploring graphic art a little more after this lab.  The world of graphics is vast, a cartoon drawing to a detailed photo, layers of typography or just creative font use.  I will investigate the job prospects in this field more.
 
 
