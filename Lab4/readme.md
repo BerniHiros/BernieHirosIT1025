@@ -10,15 +10,19 @@ IDLE = integrated development environment (IDE) provided by Python. This allows 
 ### Code Examples
 _A variable_ = a saved value or an assigned statement, that can be over written
 Example - print (‘Hello World’)  can be changed print – (‘Goodbye World’).
+
 Monty Python had a skit that included repeating “Spam – Eggs – Bacon – Spam -Spam”. The creater of Python was a fan.
+
 _Assignment statement_ = a single expression or a list separated by commas that are evaluated.
 Example - An assignment statement gives a value to a variable. For example,
 x = 52; gives x the value 52.
 The value of a variable may be changed. For example, if x has the value 52, then the assignment statement
 x = x + 1; will give x the value 53.
+
 _Function_ = a group of statements that are related to perform a specific job.
 Example - def greet(name): This function greets to the person in the morning
 	print("Hello, " + name + ". Good morning!")
+	
 _Three Data Types_
 Integers = (whole numbers) Example - 1,2,3 or -5, -6, -7  
 Floating Point Numbers – Numbers that are specified with a decimal point. Example – 3.14 or 13.5
