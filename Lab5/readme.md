@@ -44,6 +44,13 @@ Cryptologic Heritage - Through the Center for Cryptologic History, the National 
 NSA Advisory Board (NSAAB) - NSA receives advice from the nation's experts in a variety of technical fields through their participation in the National Security Agency Advisory Board (NSAAB), which has been in existence in one form or another since 1953.
 
 ### Cybersecurity and Encryption
+
+Data is an enterprise's lifeblood, and as that data moves to the cloud, applying the CIA security model around confidentiality, integrity, and availability on the core data asset—relational databases—becomes critical. In this session, learn about security features available in Amazon Relational Database Service (Amazon RDS) and Amazon Aurora to build the CIA security triad principles. Delve deep into how native database security capabilities are applied to adhere to stringent governance and compliance models. We also cover integration with services like AWS Config, AWS Key Management Service (AWS KMS), AWS CloudTrail, and Amazon CloudWatch to implement security guardrails that control and monitor database usage.
+
+
+
+
+
 #### Information Systems Security
 Cryptography
 Brute-Force
