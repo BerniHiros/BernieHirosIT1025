@@ -32,7 +32,7 @@ Both Hub and switches can only be used in a LAN (local network).  To send inform
 #### Network Topologies
 Single point of failure = part of a system that, if it fails, will stop the entire system from working. Examples; Start ring, bus (term or point). 
 
-Infrastructure topololgy is only used in LAN (local networks), the extra cabling needed makes this expensive. In comparison, and example of wireless mesh is the internet. Information can more quickly in many types of networks without the extensive amount of cabling between all devices. 
+Infrastructure topololgy is only used in LAN (local networks), the extra cabling needed makes this expensive. In comparison an example of wireless mesh is the internet. Information can more quickly in many types of networks without the extensive amount of cabling between all devices. 
 
 ### NSA/CSS
 Cybersecurity and Encryption
