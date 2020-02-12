@@ -31,7 +31,7 @@ Single point of failure = part of a system that, if it fails, will stop the enti
 Infrastructure topololgy is only used in LAN (local networks), the extra cabling needed makes this expensive. In comparison an example of wireless mesh is the internet. Information can more quickly in many types of networks without the extensive amount of cabling between all devices. 
 
 #### Network Design
-A Small business owner (techincally husband), I tried to emulate our office. We only have three main computers. A firewall is installed prior to reaching the switch.  Each person has multiple devices for the field. 
+A small business owner (techincally husband), I tried to emulate our office. We only have three main computers. A firewall is installed prior to reaching the switch.  Each person has multiple devices for the field. 
 
 #### NSA/CSS
 About Us 
@@ -87,6 +87,13 @@ Private key is held only by the person needing to decrypt code back to plain tex
 A public key is needed for a wide distrubution. Larger amounts of data can be encrypted quickly. Allowing the cipher text to reach multiple users. Whom have the private key to decrypt.
 
 #### Cryptography
+Monoalphabetic substitution = Ceasar cipher – uses only one letter shift (a certain number).  Although lasting almost 300 years – this method is easy to break today with a computer.
+
+Polyalphabetic substitution - The Vigenere Cipher –Two or more (poly) alphabets. Uses of a shift word (especially a long one) that is changed often makes this code harder to break.
+
+The Polyalphabetic exploration tool was like the Ceasar cipher in the initial decryption.  Use of the shift word made the code much harder by flattening the letter distribution.
+
+Frequency Fingerprint is easier to explain after using all the explorations above. A flat distribution of letters makes it harder for the attacker to break the code. Adding the shift word, the letters are more distributed.  
 
 
 
