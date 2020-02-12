@@ -56,6 +56,7 @@ Accessibility - Provide reliable, timely access to data when required.  Sales is
 
 Confidentiality - Data are trustworthy, coherent, and modified only by authorized principles. Not selling personal information, however they do keep very good track of what you view to purchase.
 
+
 Basic authentication is important because it enables organizations to keep their networks secure by permitting only authenticated users to access protected resources. This may include computer systems, networks, databases, websites and other network-based applications or services. A Multi-factor authentication is an authentication method in which a computer user is granted access after successfully presenting two or more pieces of evidence: knowledge, possession, and inherence. Two-factor authentication is a type, or subset, of multi-factor authentication
 
 1.	Credit card is asked for verification, when we are out of town.  Usually just a code sent to our phones
@@ -94,8 +95,6 @@ Polyalphabetic substitution - The Vigenere Cipher –Two or more (poly) alphabet
 The Polyalphabetic exploration tool was like the Ceasar cipher in the initial decryption.  Use of the shift word made the code much harder by flattening the letter distribution.
 
 Frequency Fingerprint is easier to explain after using all the explorations above. A flat distribution of letters makes it harder for the attacker to break the code. Adding the shift word, the letters are more distributed.  
-
-
 
 #### Brute-Force
 Brute Force is aptly named, as nothing stops the attacker from decrypting the cipher text. However, Kerckhoff’s Principle it is easier to keep key secret than algorithm.  Furthermore, it is easier to change key than to change algorithm
