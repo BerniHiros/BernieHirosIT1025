@@ -43,7 +43,7 @@ _Mission & Values_ - The National Security Agency/Central Security Service (NSA/
 
 _Central Security Service_ -The Central Security Service (CSS) provides cryptologic support, knowledge, and assistance to the military cryptologic community.
 
-_Cryptologic Centers_ - Headquaters in Maryland, ** NSA/CSS Colorado ,NSA/CSS Georgia, NSA/CSS Hawaii, NSA/CSS Texas **
+_Cryptologic Centers_ - Headquaters in Maryland, NSA/CSS Colorado ,NSA/CSS Georgia, NSA/CSS Hawaii, NSA/CSS Texas 
 
 _Cryptologic Heritage_ - Through the Center for Cryptologic History, the National Cryptologic Museum, and the NSA/CSS Cryptologic Memorial, NSA/CSS shares with the public-at-large some of the contributions cryptologists have made to the defense of our Nation
 
@@ -91,6 +91,7 @@ Private key is held only by the person needing to decrypt code back to plain tex
 A public key is needed for a wide distrubution. Larger amounts of data can be encrypted quickly. Allowing the cipher text to reach multiple users. Whom have the private key to decrypt.
 
 #### Cryptography
+
 
 
 #### Brute-Force
