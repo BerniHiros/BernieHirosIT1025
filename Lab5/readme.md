@@ -1,5 +1,5 @@
  
-##Executive Summary
+## Executive Summary
 In this lab we use Lucidchart to build both a flow chart and networking system. Though videos, internet and book we will explain different topologies. Finishing with cybersecurity; roles of the government agencies and different decryption techniques.
 
 ### Lucidchart
@@ -99,6 +99,6 @@ Frequency Fingerprint is easier to explain after using all the explorations abov
 #### Brute-Force
 Brute Force is aptly named, as nothing stops the attacker from decrypting the cipher text. However, Kerckhoff’s Principle it is easier to keep key secret than algorithm.  Furthermore, it is easier to change key than to change algorithm
 
-##Conclusion
+## Conclusion
 In this lab we learned how computers are interconnected using Lucidchart and then the different topologies.  Continued onto safety of our data, from the personal computer user to the internet.  Alice and Bob have Eve listening in – we learned past and present how to try and keep data safe. I did find cryptography fun, it is a type of puzzle.
 
