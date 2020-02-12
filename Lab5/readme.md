@@ -37,15 +37,24 @@ Infrastructure topololgy is only used in LAN (local networks), the extra cabling
 ### NSA/CSS
 About Us 
 _Mission & Values_ - The National Security Agency/Central Security Service (NSA/CSS)  encompasses both signals intelligence (SIGINT) and information assurance (now referred to as cybersecurity) products and services, and enables computer network operations (CNO) in order to gain a decision advantage for the Nation and our allies under all circumstances.
+
 _Central Security Service_ -The Central Security Service (CSS) provides cryptologic support, knowledge, and assistance to the military cryptologic community.
-_Cryptologic Centers_ - Headquaters in Maryland, ** NSA/CSS Colorado,NSA/CSS Georgia,NSA/CSS Hawaii,NSA/CSS Texas **
+
+_Cryptologic Centers_ - Headquaters in Maryland, ** NSA/CSS Colorado ,NSA/CSS Georgia, NSA/CSS Hawaii, NSA/CSS Texas **
+
 _Cryptologic Heritage_ - Through the Center for Cryptologic History, the National Cryptologic Museum, and the NSA/CSS Cryptologic Memorial, NSA/CSS shares with the public-at-large some of the contributions cryptologists have made to the defense of our Nation
+
 _NSA Advisory Board (NSAAB)_ - NSA receives advice from the nation's experts and informs the National Security Agency Advisory Board (NSAAB), which has been in existence in one form or another since 1953.
 
 ### Cybersecurity and Encryption
 
-Data moves to the cloud, applying the CIA security model around confidentiality, integrity, and availability on the core data asset—relational databases—becomes critical. In this session, learn about security features available in Amazon Relational Database Service (Amazon RDS) and Amazon Aurora to build the CIA security triad principles. Delve deep into how native database security capabilities are applied to adhere to stringent governance and compliance models. We also cover integration with services like AWS Config, AWS Key Management Service (AWS KMS), AWS CloudTrail, and Amazon CloudWatch to implement security guardrails that control and monitor database usage.
+Choosing Amazon.com online chat has use of all three portions of the traid model.   Amazon is a company that runs 24/7 and need to be aware of all threats.  Online chat can help customers ask questions.  My job at Amazon would include:
 
+Integrity – Send a text check when a password is being accessed from a different IP or delivery is going to a new address.  Prevention of disclosure attacks, leakage, and theft Integrity
+
+Accessibility - Provide reliable, timely access to data when required.  Sales is the base of the company and it is important to keep the customers happy.
+
+Confidentiality - Data are trustworthy, coherent, and modified only by authorized principles. Not selling personal information, however they do keep very good track of what you view to purchase.
 
 
 
