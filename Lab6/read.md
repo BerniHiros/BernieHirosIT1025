@@ -24,6 +24,25 @@ TCP/IP allows one computer to talk to another computer through a world wide, fau
 
 The article compares transmission to a phone.  Someone initiates the connection by dialing the phone, at the other end of the connection someone else then picks up the line. The main difference is that the data is sent across your network. To go a little more in depth the data is broken into data packets that networks can deliver.  Packets from the network layer are reassembled and then a retransmission is sent that all reassembled packets have arrived.
 
+The advantage of splitting the task into different layers is that any of the layers can be changed without affecting the other layers. Delivery can happen even if there are differnet computer systems involved.
+
+TCP/IP application layer are −
+•	Hyper Text Transfer Protocol, HTTP 
+•	File Transfer Protocol, FTP − 
+•	Simple Mail Transfer Protocol, SMTP − 
+•	Domain Name System, DNS − 
+•	TELNET 
+•	Simple Network Management Protocol, SNMP −  
+
+The application layer of the OSI model. 
+•	Layer 7 - Application
+•	Layer 6 - Presentation
+•	Layer 5 - Session
+•	Layer 4 - Transport
+•	Layer 3 - Network
+•	Layer 2 - Data Link
+•	Layer 1 - Physical
+
 
 
 Internet Security
