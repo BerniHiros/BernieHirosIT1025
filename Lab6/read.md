@@ -49,10 +49,15 @@ HTTP – signifies all the information is being sent in clear text.  The client 
 
 The protocol that is used to signify secure data is designated by the letter “S” at the end of HTTPS.  Personal info, passwords or payments should have the “S” following HTTP.  A padlock symbol may also to the left of the address.
 
+#### Securing your Web Browser
 
+Securing your web browser is important to protect your computer from  problems caused from spyware being installed without your knowledge to intruders taking control of your computer.  
 
-Securing your Web Browser
+Being guilty of just hitting the allow cookies button while shopping the internet – I chose to investigate this risk. In the past past when I banned all browser cookies some websites were difficult to navigate. However, after setting controls I can now help protect my privacy while shopping.
+
 Internet Programming
+
+
 World Wide Web Consortium
 HTML5 and CSS
 HTML and XML
