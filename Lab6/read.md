@@ -43,9 +43,14 @@ The OSI application layer
 •	Layer 2 - Data Link
 •	Layer 1 - Physical
 
+#### Internet Security
+
+HTTP – signifies all the information is being sent in clear text.  The client and server can easily read the information. Easily readable form, however, should not contain any sensitive data because the information is not safe.
+
+The protocol that is used to signify secure data is designated by the letter “S” at the end of HTTPS.  Personal info, passwords or payments should have the “S” following HTTP.  A padlock symbol may also to the left of the address.
 
 
-Internet Security
+
 Securing your Web Browser
 Internet Programming
 World Wide Web Consortium
