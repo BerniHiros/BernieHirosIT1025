@@ -55,10 +55,10 @@ Securing your web browser is important to protect your computer from  problems c
 
 Being guilty of just hitting the allow cookies button while shopping the internet – I chose to investigate this risk. In the past past when I banned all browser cookies some websites were difficult to navigate. However, after setting controls I can now help protect my privacy while shopping.
 
-Internet Programming
+### Internet Programming
+#### World Wide Web Consortium
 
 
-World Wide Web Consortium
 HTML5 and CSS
 HTML and XML
 Components of a URL
