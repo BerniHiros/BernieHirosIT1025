@@ -26,15 +26,15 @@ The article compares transmission to a phone.  Someone initiates the connection 
 
 The advantage of splitting the task into different layers is that any of the layers can be changed without affecting the other layers. Delivery can happen even if there are differnet computer systems involved.
 
-TCP/IP application layer are −
+TCP/IP application layer  
 •	Hyper Text Transfer Protocol, HTTP 
-•	File Transfer Protocol, FTP − 
-•	Simple Mail Transfer Protocol, SMTP − 
-•	Domain Name System, DNS − 
+•	File Transfer Protocol, FTP  
+•	Simple Mail Transfer Protocol, SMTP 
+•	Domain Name System, DNS  
 •	TELNET 
-•	Simple Network Management Protocol, SNMP −  
+•	Simple Network Management Protocol, SNMP   
 
-The application layer of the OSI model. 
+The OSI application layer 
 •	Layer 7 - Application
 •	Layer 6 - Presentation
 •	Layer 5 - Session
