@@ -20,7 +20,7 @@ ICANN (Internet Corporation for Assigned Names and Numbers) - is a community dri
 
 #### TCP/IP
 
-TCP/IP allows one computer to talk to another computer through a world wide fault tolerant network via the Internet by compiling packets of data and sending them to right address.
+TCP/IP allows one computer to talk to another computer through a world wide, fault tolerant network, via the Internet by compiling packets of data and sending them to right address.
 
 The article compares transmission to a phone.  Someone initiates the connection by dialing the phone, at the other end of the connection someone else then picks up the line. The main difference is that the data is sent across your network. To go a little more in depth the data is broken into data packets that networks can deliver.  Packets from the network layer are reassembled and then a retransmission is sent that all reassembled packets have arrived.
 
