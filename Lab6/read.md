@@ -58,6 +58,12 @@ Being guilty of just hitting the allow cookies button while shopping the interne
 ### Internet Programming
 #### World Wide Web Consortium
 
+ In 1989, Sir Tim Berners-Lee invented the World Wide Web, to facilitate technologies (specifications, guidelines, software, and tools) to lead the Web to its full potential
+
+Semantics (or word meanings) In every language across the world, words may have different meanings for the same object or thought. Jargon for different professions are also thrown into the mix.  Now we have computers that are crossing all these boundaries. The term “Semantic Web” refers to W3C’s vision of the Web of linked data. Semantic Web technologies enable people to create data stores on the Web, build vocabularies, and write rules for handling data.
+Within the Semantic Web, _vocabularies_ are used to classify the terms that can be used in a application, characterize possible relationships, and define possible constraints on using those terms. In practice, vocabularies can be very complex (with several thousands of terms) or very simple (describing one or two concepts only).
+
+
 
 HTML5 and CSS
 HTML and XML
