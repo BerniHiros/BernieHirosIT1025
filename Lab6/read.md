@@ -71,7 +71,9 @@ XML tags are not predefined whereas HTML has predefined tags.
 XML store and transfer the data whereas HTML is used for the data presentation. 
 XML is the standard markup language to define other languages v.s. HTML is a simple, predefined language. 
 
-Components of a URL
+### Components of a URL
+
+
 
 * scheme = https
 * domain = www.amazon.com
