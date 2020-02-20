@@ -1,4 +1,5 @@
 ## Executive Summary
+In this lab we are exploring languages and protocols (including safety) for use in internet communication. Using an editing techniques and programing methods to create and upload a web page.
 
 ### Internet Architecture
 #### Internet Protocol
@@ -73,16 +74,16 @@ XML is the standard markup language to define other languages v.s. HTML is a sim
 
 ### Components of a URL
 
-
-
-* scheme = https
-* domain = www.amazon.com
-* top level domain = .edu
+ example broken down below _https://en.wikipedia.org/wiki/Internet#Terminology_
+* scheme = https......https:
+* domain = www.amazon.com.......en.wikipedia
+* top level domain = .edu......org
 * default page = no file path provided
-* parameters = result of search
-* anchor =  specific location on a page
-
-
-
+* parameters = result of search.....Internet
+* anchor =  specific location on a page....#Terminology
 
 ## Conclusion
+ While searching for a path to follow in computers this lab was the most comprehensive to date. We utilized CMD, file and folders from past labs.  Introduced to web page building and the languages used, graphics, editor, notepad and graphics. Throughout the lab received a better understanding of Internet Architecture and the security and governing boards that are overseeing. 
+
+
+
