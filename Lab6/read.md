@@ -83,7 +83,7 @@ XML is the standard markup language to define other languages v.s. HTML is a sim
 * anchor =  specific location on a page....#Terminology
 
 ## Conclusion
- While searching for a path to follow in computers this lab was the most comprehensive to date. We utilized CMD, file and folders from past labs.  Introduced to web page building and the languages used, graphics, editor, notepad and graphics. Throughout the lab received a better understanding of Internet Architecture and the security and governing boards that are overseeing. 
+ While searching for a path to follow in computers this lab was the most comprehensive to date. We utilized CMD, file, folders and images from past labs.  Also introduced to web page building and the languages used, graphics, editor and notepad. Throughout the lab we gained a better understanding of Internet Architecture, security and governing boards that are overseeing all data transfers. 
 
 
 
