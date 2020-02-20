@@ -1,8 +1,3 @@
-ImageProperties.PNG	Add files via upload	9 months ago
-WebFileStructure.PNG	Add files via upload	9 months ago
-ipconfig.PNG
-
-
 ## Executive Summary
 
 ### Internet Architecture
@@ -63,10 +58,19 @@ Being guilty of just hitting the allow cookies button while shopping the interne
 Semantics (or word meanings) In every language across the world, words may have different meanings for the same object or thought. Jargon for different professions are also thrown into the mix.  Now we have computers that are crossing all these boundaries. The term “Semantic Web” refers to W3C’s vision of the Web of linked data. Semantic Web technologies enable people to create data stores on the Web, build vocabularies, and write rules for handling data.
 Within the Semantic Web, _vocabularies_ are used to classify the terms that can be used in a application, characterize possible relationships, and define possible constraints on using those terms. In practice, vocabularies can be very complex (with several thousands of terms) or very simple (describing one or two concepts).
 
+#### HTML5 and CSS
+ HTML is meant to tell the Browser what data you want on a page, CSS is meant to tell the Browser how those things should look. HTML is for information and CSS can make it look nicer.
+ 
+ My web Page I am a fan of quotes.  A daily uplifting quote can go a long way. I followed the instruciona sn did not wat to deviate to much for the assingmnent. 
 
+#### HTML and XML
+XML – eXtensible Markup Language. The most basic components of an XML document are elements, attributes, and comments. Both human and machine readable XLM was designed to transport data.
 
-HTML5 and CSS
-HTML and XML
+XML tags are extensible whereas HTML has limited tags.
+XML tags are not predefined whereas HTML has predefined tags.
+XML store and transfer the data whereas HTML is used for the data presentation. 
+XML is the standard markup language to define other languages v.s. HTML is a simple, predefined language. 
+
 Components of a URL
 
 * scheme = https
