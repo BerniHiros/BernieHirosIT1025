@@ -11,6 +11,15 @@ JPEG is a raster image format and uses lossy compression algorithm and image may
 SVG is a text-based image format and uses mathematical structures to represent an image and is highly scalable. SVG is a vector image format, renders well at any size. Format is highly compressible and lightweight
 
 Object Oriented Programming (OOP)
+
+
+*object - sammy - Object are person, place, or thing 
+*class - shark -  group of similar items called classes
+*inheritance - a specific type of shark - giving out most essential details
+*abstraction - swim(self) - includes property of another class
+*encapsulation - definition of a shark  - means hiding the code and data
+
+
 Unified Modeling Language (UML)
 
 
