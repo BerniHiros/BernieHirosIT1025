@@ -13,11 +13,11 @@ SVG is a text-based image format and uses mathematical structures to represent a
 Object Oriented Programming (OOP)
 
 
-*object - sammy - Object are person, place, or thing 
-*class - shark -  group of similar items called classes
-*inheritance - a specific type of shark - giving out most essential details
-*abstraction - swim(self) - includes property of another class
-*encapsulation - definition of a shark  - means hiding the code and data
+*object - sammy - Object are person, place, or thing.
+*class - shark -  group of similar items called classes.
+*inheritance - a specific type of shark - giving out most essential details.
+*abstraction - swim(self) - includes property of another class.
+*encapsulation - definition of a shark  - means hiding the code and data.
 
 
 Unified Modeling Language (UML)
