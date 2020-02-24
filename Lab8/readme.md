@@ -16,7 +16,6 @@ PARENT TABLE
 | 42748    |   10 -Short   |   20060|
 
 Primary Key = is a column (or group) that uniquely identify every row in that table. A primary Key can't appear more than once in the table.  A table cannot have more than one primary key.
-
 *The example above the customer number is the Primary Key*
 
 CHILD TABLE
@@ -28,11 +27,9 @@ CHILD TABLE
 | 20060    |    Short      |   6101|
 
 
-A FOREIGN KEY is a key used to link two tables together. The foreign key is a field (or collection of fields) in one table that refers to the primary key in another table.
+A FOREIGN KEY is a key used to link two tables together. The foreign key is a field (or collection of fields) in one table that refers to the primary key in another table.*In this example the foreign key in Deptcode, we can create a relationship of cutomer order form parent table throught dep code of child talbe to check stock of an item.*
 
 The table containing the foreign key is called the child table, and the table containing the candidate key is called the referenced or parent table.
-
-*In this example the foreign key in Deptcode, we can create a relationship of cutomer order form parent table throught dep code of child talbe to check stock of an item.*
 
 The customer and order table are related = they are all ordering items of clothing. The table has customer number what they ordered and dept the item is located. The dept number will check stock at the store.
 
@@ -57,13 +54,26 @@ One of the prime tools for businesses to avoid risks in decision making, predict
  Data Integration -
 A key operational challenge for most organizations handling big data is to process terabytes (or petabytes) of data in a way that can be useful for customer deliverables. Data integration tools allow businesses to streamline data across a number of big data solutions such as Amazon EMR, Apache Hive, Apache Pig, Apache Spark, Hadoop, MapReduce, MongoDB and Couchbase.
 
-In conclusion, Big Data is already being used to improve operational efficiency. Companies have the ability to make informed decisions based on the very latest up-to-the-moment information.
+Big Data is already being used to improve operational efficiency. Companies have the ability to make informed decisions based on the very latest up-to-the-moment information.
 
-Structured Query Language (SQL)
+### Structured Query Language (SQL)
 
+RDBMS stands for Relational Database Management System. RDBMS is a database management system. And SQL is the language used for communicating with data in an RDBMS. RDBMS is the basis for SQL, and for all modern database systems such as MS SQL Server, IBM DB2, Oracle, MySQL, and Microsoft Access. The data in RDBMS is stored in database objects called tables. A table is a collection of related data entries and it consists of columns and rows. The analogy is - RDBMS is a book and SQL is the language being used in the book. The purpose of SQL is learning the langiage to read the book (or create tables).
 
-SQL Injections
-Ethical and Legal Implications
+I gave a similar example in my markdown table above. From the two tables = Customers and Order (details) table.  The customer ID is unique and the order dept has units - price and quantity.
+
+Primary Key = is a column (or group) that uniquely identify every row in that table. A primary Key can't appear more than once in the table.  A table cannot have more than one primary key.
+*The example above the customer number is the Primary Key*
+
+A FOREIGN KEY is a key used to link two tables together. The foreign key is a field (or collection of fields) in one table that refers to the primary key in another table.*In this example the foreign key in Deptcode, we can create a relationship of cutomer order form parent table throught dep code of child talbe to check stock of an item.*
+
+### SQL Injections
+
+SQL Injection a code injection technique that might destroy your database, one of the most common web hacking techniques, by the placement of malicious code in SQL statements, via web page input.  For example, in a financial application, an attacker could use SQL Injection to alter balances, void transactions, or transfer money to their account. Almost every technical advance, hackers discovered new attack vectors, and for as long as relational databases have been used in web applications, so too have SQL Injection attack vectors.
+ The more recent the version of  your software is, the less chance of having a vulnerability, or at least a widely-known one. You can also ensure your database itself is as secure as possible.  In the information security field, there exists a concept known as the principle of least privilege.  This principle states that a user or program should have only the absolute very least amount of privileges necessary to complete its tasks. 
+
+### Ethical and Legal Implications
+
 Code of Ethics
 Intellectual Property
 Information Collection
