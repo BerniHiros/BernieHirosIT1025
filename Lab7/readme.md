@@ -12,8 +12,8 @@ SVG is a text-based image format and uses mathematical structures to represent a
 
 Object Oriented Programming (OOP)
 
-Class = would be fast food
-Oject would be the individual fries & burger.
+Class = would be fast food = Class is a template from which objects are created.  Class is a group of similar objects.
+Object = would be the individual fries & burger.  Object is an instance of a class. A class is a person , place or thing.
 
 *object - sammy - Object are person, place, or thing.
 *class - shark -  group of similar items called classes.
