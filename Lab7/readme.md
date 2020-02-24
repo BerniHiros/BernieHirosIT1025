@@ -1,6 +1,6 @@
 
 ## Executive Summary
-In this Lab we continued practice with files/folders and adding zip compression. Further we explores Object Oriented Concepts and thier classifications. Using Python we uploasded a file on object oriented programming.
+In this Lab we continued practice with files/folders and adding zip compression. Further we explored Object Oriented Concepts and thier classifications. Using Python we uploasded a file on object oriented programming.
 
 ### File Compression
 
