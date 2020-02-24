@@ -12,6 +12,8 @@ SVG is a text-based image format and uses mathematical structures to represent a
 
 Object Oriented Programming (OOP)
 
+Class = would be fast food
+Oject would be the individual fries & burger.
 
 *object - sammy - Object are person, place, or thing.
 *class - shark -  group of similar items called classes.
