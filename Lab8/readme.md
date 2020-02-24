@@ -6,11 +6,12 @@
 - Information - what is done with the data "converted context".
 - Knowledge - use of the information. Decision, policy, innovation.
 
-| ID num   |    school     |  grade|
+| cust num |    order      |  total|
 |----------|:-------------:|------:|
-| 32690    |    Mich       |   grad|
-| 38898    |    BMHS       | eleven|
-| 42748    |    BMMS       |  eight|  
+| 32690    |    Shirt      | twenty|
+| 38898    |    Hoodie     | eleven|
+| 42748    |    Shorts     |  eight|  
+
 
 Primary Key = is a column or group of columns in a table that uniquely identify every row in that table. A primary Key can't appear more than once in the table.  A table cannot have more than one primary key.
 
