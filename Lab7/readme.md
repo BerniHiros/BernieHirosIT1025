@@ -1,5 +1,5 @@
 
-## Executive Summary
+## Executive SummaryIn this Lab we continued practice with files/folders and adding zip compression. Further we explores Object Oriented Concepts and thier classifications. Using Python we uploasded a file on object oriented programming.
 
 ### File Compression
 
@@ -10,9 +10,9 @@ Uses for a zip file would include large documents or photos for decreasing the s
 JPEG is a raster image format and uses lossy compression algorithm and image may lost some of its data. JPEG file sizes grow quickly for large files such as images. You should not save and re-save the same jpg file multiple times because the quality of the image will degrade more and more each time you save it.
 SVG is a text-based image format and uses mathematical structures to represent an image and is highly scalable. SVG is a vector image format, renders well at any size. Format is highly compressible and lightweight
 
-Object Oriented Programming (OOP)
+### Object Oriented Programming (OOP)
 
-Class = would be fast food = Class is a template from which objects are created.  Class is a group of similar objects.
+Class = would be McDonalds fast food = Class is a template from which objects are created.  Class is a group of similar objects.
 Object = would be the individual fries & burger.  Object is an instance of a class. A class is a person , place or thing.
 
 *object - sammy - Object are person, place, or thing.
@@ -22,7 +22,8 @@ Object = would be the individual fries & burger.  Object is an instance of a cla
 *encapsulation - definition of a shark  - means hiding the code and data.
 
 
-Unified Modeling Language (UML)
-
+### Unified Modeling Language (UML) -unified model language
+ Is used with software engineering that is intended to provide a standard way to visualize the design of a system.
 
 ## Conclusion
+I liek that we are reviewing and adding in new file concepts. I had a bit of difficulty with my python program and will look into solving this by using books on the subject. 
