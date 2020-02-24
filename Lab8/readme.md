@@ -9,25 +9,25 @@
 
 PARENT TABLE 
 
-| cust num |    order      |Dep code|
+| cust ID  |    item       |order ID|
 |----------|:-------------:|-------:|
 | 32690    |   6 - Shirt   |   20086|
 | 38898    |   4 - Hoodie  |   20087|
 | 42748    |   10 -Short   |   20060|
 
 Primary Key = is a column (or group) that uniquely identify every row in that table. A primary Key can't appear more than once in the table.  A table cannot have more than one primary key.
-*The example above the customer number is the Primary Key*
+*The example above the customer ID is the Primary Key*
 
 CHILD TABLE
 
-| Dep code |      item     |  stock|
+| order ID |      item     |  stock|
 |----------|:-------------:|------:|
 | 20086    |    Shirt      |   1600|
 | 20087    |    Hoodie     |   1200|
 | 20060    |    Short      |   6101|
 
 
-A FOREIGN KEY is a key used to link two tables together. The foreign key is a field (or collection of fields) in one table that refers to the primary key in another table. *In this example the foreign key in Dep code, we can create a relationship of cutomer number from parent table through dep code of child table to check stock of an item.*
+A FOREIGN KEY is a key used to link two tables together. The foreign key is a field (or collection of fields) in one table that refers to the primary key in another table. *In this example the foreign key is the Order ID, we can create a relationship of cutomer number from parent table through dep code of child table to check stock of an item.*
 
 The table containing the foreign key is called the child table, and the table containing the candidate key is called the referenced or parent table.
 
@@ -60,12 +60,12 @@ Big Data is already being used to improve operational efficiency. Companies have
 
 RDBMS stands for Relational Database Management System. RDBMS is a database management system. And SQL is the language used for communicating with data in an RDBMS. RDBMS is the basis for SQL, and for all modern database systems such as MS SQL Server, IBM DB2, Oracle, MySQL, and Microsoft Access. The data in RDBMS is stored in database objects called tables. A table is a collection of related data entries and it consists of columns and rows. The analogy is - RDBMS is a book and SQL is the language being used in the book. The purpose of SQL is learning the language to read the book (or create tables).
 
-I gave a similar example in my markdown table above. From the two tables = Customers and Order (details) table.  The customer ID is unique and the order dept has units - price and quantity.
+I gave a similar example in my markdown table above. From the two tables = Customer and Order (details) table.  The customer ID is unique and the order ID has units - price and quantity.
 
 Primary Key = is a column (or group) that uniquely identify every row in that table. A primary Key can't appear more than once in the table.  A table cannot have more than one primary key.
-*The example above the customer number is the Primary Key*
+*The example above the order ID is the Primary Key*
 
-A FOREIGN KEY is a key used to link two tables together. The foreign key is a field (or collection of fields) in one table that refers to the primary key in another table. *In this example the foreign key in Dep code, we can create a relationship of cutomer number from parent table through dep code of child table to check stock of an item.*
+A FOREIGN KEY is a key used to link two tables together. The foreign key is a field (or collection of fields) in one table that refers to the primary key in another table. *In this example the foreign key is the customer ID, we can create a relationship of cutomer number from parent table through dep code of child table to check stock of an item.*
 
 ### SQL Injections
 
@@ -76,7 +76,9 @@ SQL Injection a code injection technique that might destroy your database, one o
 
 #### Code of Ethics
 
-The term ethics is defined as “a set of moral principles” or “the principles of conduct governing an individual or a group. ”[https://www.merriam-webster.com/dictionary/ethics].  A code of ethics is a document that outlines a set of acceptable behaviors for a professional or social group. Association for Computing Machinery (ACM) created a code, in this case set of rules, consisting of 24 imperatives (formulated as statements) of personal responsibility, identifies the elements of such a commitment. It contains many issues professionals are likely to face. They created this code of ethics to clarify the acceptable standards of behavior for a professional group.
+The term ethics is defined as “a set of moral principles” or “the principles of conduct governing an individual or a group. ”[https://www.merriam-webster.com/dictionary/ethics].  A code of ethics is a document that outlines a set of acceptable behaviors for a professional or social group.
+
+Association for Computing Machinery (ACM) created a code, in this case set of rules, consisting of 24 imperatives (formulated as statements) of personal responsibility, identifies the elements of such a commitment. It contains many issues professionals are likely to face. They created this code of ethics to clarify the acceptable standards of behavior for a professional group.
  
 Many places provide technology services to the public require agreement to an acceptable use policy (AUP) before those services can be accessed. Similar to a code of ethics, this policy outlines what is allowed and what is not allowed while someone is using the organization’s services. Some examples are public libraries, coffee shops and schools. ACM is more of a governing board of professionals that focuses on computing, there are more specific admonitions. The AUP is agreed upon entering specific sites.
 
@@ -96,6 +98,7 @@ https://www.berea.k12
 .oh.us/cms/lib6/OH01000054/Centricity/Domain/240/Acceptable%20Use%20Policy-Parents%20Mail%20Home.pdf
 
 #### Intellectual Property 
+The World Intellectual Property Organization is comprised of 15 specialized agencies of the United Nations. WIPO was created in 1967 "to encourage creative activity, to promote the protection of intellectual property throughout the world".
 
 
 #### Information Collection
