@@ -41,17 +41,20 @@ The order table - The properties of a field describe the information of the data
 #### Big Data
 
 Volume: Refers to the mass quantity of data that organizations have been trying to harness and to improve decision making across the enterprise.
+
 Velocity: This characteristic represents the motion of the data. Real-time nature of data creation, enterprises have invested a lot to develop Big Data solutions which could incorporate streaming data into business processes and decision making.
+
 Variety: It defines different types of data and data resources. Daily new categories are added to the list of data types.
 *Unstructured data = the data that does not have a well-defined set of rules, for example, Twitter, Facebook, , audio files, MRI images, web pages, web logs has contributed immensely to the rise of Big Data.*
+
 Veracity: It can be termed as the trustworthiness of the data. We may also define veracity as the level of reliability associated with certain types of data.
 
 Two types of technology have driven the increased need for big data?
 
-Predictive Analytics
+Predictive Analytics -
 One of the prime tools for businesses to avoid risks in decision making, predictive analytics can help businesses. Predictive analytics hardware and software solutions can be utilised for discovery, evaluation and deployment of predictive scenarios by processing big data. Such data can help companies to be prepared for what is to come and help solve problems by analyzing and understanding them.
 
- Data Integration
+ Data Integration -
 A key operational challenge for most organizations handling big data is to process terabytes (or petabytes) of data in a way that can be useful for customer deliverables. Data integration tools allow businesses to streamline data across a number of big data solutions such as Amazon EMR, Apache Hive, Apache Pig, Apache Spark, Hadoop, MapReduce, MongoDB and Couchbase.
 
 In conclusion, Big Data is already being used to improve operational efficiency. Companies have the ability to make informed decisions based on the very latest up-to-the-moment information.
