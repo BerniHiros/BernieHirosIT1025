@@ -1,6 +1,6 @@
 ## Executive Summary
 
-In this lab we are learning databases and SQL. we are also learning many of the leagal implications including copywrite, trademarks and restictions.
+In this lab we are learning databases and SQL. We are also learning many of the intellectual properties and legal implications including copywrite, trademarks and restictions.
 
 ### Data, Information and Knowledge
 #### Relational Data
