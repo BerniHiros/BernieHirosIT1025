@@ -1,4 +1,10 @@
 ## Executive Summary
+
+ UPDATE - I will research and report findings on transferring to a four year college after Tri-C. 
+
+
+
+
 I will research the history and future of Markdown.  Then tell what Markdown is where we can use this language. In detail explain how to learn Markdown and submit a sample.
 
 ### Project or Co-op
