@@ -1,5 +1,7 @@
 ## Executive Summary
 
+In this lab we are learning databases and SQL. we are also learning many of the leagal implications including copywrite, trademarks and restictions.
+
 ### Data, Information and Knowledge
 #### Relational Data
 
@@ -100,7 +102,20 @@ https://www.berea.k12
 #### Intellectual Property 
 The World Intellectual Property Organization is comprised of 15 specialized agencies of the United Nations. WIPO was created in 1967 "to encourage creative activity, to promote the protection of intellectual property throughout the world".
 
+ An application for copyrightregistration can be filed by the author or owner of an exclusive right in a work, the owner of all
+exclusive rights, or an agent on behalf of an author or owner. Copyrights grant the owner the exclusive right to reproduce and distribute copies of the work, prepare derivative works, and perform, display, and broadcast the work publicly. Obtaining copywrite for my SVG image = Allows me ownership of the work I designed and prohibits others from infringing on my work.
+
+Top advantage of a trademark are: Brand Protection. Your brand is the culmination of years of blood, sweat, and tears you've poured into building it. Exclusive Rights to The Mark. The main advantage of registering your brand is exclusivity. 
+Bolster Business Reputation.
 
 #### Information Collection
 
+Websites that are collecting information from children under the age of thirteen are required to comply with the Children’s Online Privacy Protection Act (COPPA). Many new apps and games daily  - I feel this is important  - however kids know how to get around the age restrictions.
+
+The Family Educational Rights and Privacy Act (FERPA) is a US law that protects the privacy of student education records. In brief, this law specifies that parents have a right to their child’s educational information until the child reaches either the age of eighteen or begins attending school beyond the high school level. IF FERPA was only about grades is one concept. However, I was unable to speak with my daughter's dorm hall representative about mold in her room. I needed to have my daughter o.k. the form
+
+The Health Insurance Portability and Accountability Act of 1996 (HIPAA) is the law the specifically singles out records related to health care as a special class of personally identifiable information. This law gives patients specific rights to control their medical records, requires health care providers and others who maintain this information to get specific permission in order to share it, and imposes penalties on the institutions that breach this trust. This is another form that I believe in, however as the bill payer and parent that would be attending any emergency, it is just more paperwork to fill out in college.
+
 ## Conclusion
+
+I will be trying a bit more of Python on my own to see if this is a path I wish to follow. I know my girls are utalizing visual studio and will try different platforms.  I don't believe I will be needed copywrite or trademark, however it is good to know where to locate information if this ever changes.
