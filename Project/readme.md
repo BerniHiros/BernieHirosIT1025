@@ -14,26 +14,5 @@
  * Credit Transfers
  
  ## Conclusion
- 
- I  will only put in from personal experience is ways to find money.  All Other suggestions are documented or a locations at Tri-C to find answers
 
-
-
-
-I will research the history and future of Markdown.  Then tell what Markdown is where we can use this language. In detail explain how to learn Markdown and submit a sample.
-
-### Project or Co-op
-* Research Markdown: 
-* History of Markdown
-* Future of markdown
-* What’s Markdown?
-* Why Use Markdown?
-* How to learn Markdown language - supply sites [GitLab](https://about.gitlab.com)
-* Supply a sample
-
-## Conclusion
-I have enjoyed the course and its exposure to so many new thoughts.  Will try and continue to research (on the side) when I feel behind. I am in _awe_ of some of the younger students knowledge. My future path includes more classes, I am registered for IT 1050 with Khaizaran, Dalia.  Lastly,seeking information from teachers, friends and the internet, the most employable IT degrees. 
-
-
-
-
+I have reinforced use of Tri-C resources.  I have only given a few examples of what has worked for me in the past. However, each topic I have a suggested TRi-C specialist or department.
