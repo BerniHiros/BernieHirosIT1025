@@ -27,4 +27,4 @@ Object = would be the individual fries & burger.  Object is an instance of a cla
  Is used with software engineering that is intended to provide a standard way to visualize the design of a system.
 
 ## Conclusion
-I liek that we are reviewing and adding in new file concepts. I had a bit of difficulty with my python program and will look into solving this by using books on the subject. 
+I like that we are reviewing and adding in new file concepts. I had a bit of difficulty with my python program and will look into solving this by using books on the subject. 
