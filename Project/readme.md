@@ -2,14 +2,20 @@
 
  UPDATE - I will research and report findings on transferring to a four year college after Tri-C. 
  
- I will reinforece visiting counselors.
- Make a plan
- Ask Questions
- Prioritize grades
- Finanacial Aid 
- Credit Transfers
+ *I  will reinforece visiting counselors.
+ * Make a plan 
  
- The only thing I will put in from personal experience is eways to find money.  All Other suggestions are documanted or a locations at Tri-C to find answers
+ * Ask Questions
+ 
+ * Prioritize grades
+ 
+ * Finanacial Aid 
+ 
+ * Credit Transfers
+ 
+ Conclusion
+ 
+ ## I  will only put in from personal experience is ways to find money.  All Other suggestions are documanted or a locations at Tri-C to find answers
 
 
 
