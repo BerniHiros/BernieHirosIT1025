@@ -15,7 +15,7 @@
  
  ## Conclusion
  
- I  will only put in from personal experience is ways to find money.  All Other suggestions are documanted or a locations at Tri-C to find answers
+ I  will only put in from personal experience is ways to find money.  All Other suggestions are documented or a locations at Tri-C to find answers
 
 
 
